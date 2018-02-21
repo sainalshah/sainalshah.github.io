@@ -51,6 +51,16 @@ h2 {
   font-size: 1.75rem;
 }
 
+.link-button {
+  color: #fff;
+  background-color: #BD5D38;
+}
+
+.link-button:hover {
+  color: #BD5D38;
+  background-color: #e9ecef;
+}
+
 .list-icons {
   font-size: 3rem;
 }

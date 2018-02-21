@@ -52,6 +52,14 @@ h2 {
   }
 }
 
+.link-button {
+  color: $white;
+  background-color: $primary;
+    &:hover {
+      color: $primary;
+      background-color: $gray-200;
+    }
+}
 .list-icons {
   font-size: 3rem;
   .list-inline-item i {
